@@ -7,6 +7,16 @@ This is a sample bot that answers FAQs about Changi Airport written in C#/ASP.NE
 
 Additionally, this bot pulls flight departure information from Changi Airport's [REST endpoint](http://www.changiairport.com/cag-web/flights/departures?date=today&lang=en_US&callback=JSON_CALLBACK).
 
+###Question List
+1. Show me images of Terminal 1/2/3 - [Images taken from Bing](https://www.microsoft.com/cognitive-services/en-us/bing-image-search-api)
+2. Show me map of Terminal 1/2/3
+3. What time is my flight TZ1234? - [Information taken from departure list](http://www.changiairport.com/en/flight/departures.html)
+4. What items are restricted? / Can I bring a gun?
+5. How much does it cost to park around here?
+6. Are there hotels for transit?
+7. Where can I leave my baggage?
+8. I lost my stuff!
+
 ###API Materials
 Please visit these links to configure the relevant APIs or read more about them.
 - https://docs.botframework.com/en-us/
